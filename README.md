@@ -1,2 +1,3 @@
 # buat_jiha
-Ini kata hati ku
+klik tautan ini
+https://andra343.github.io/buat_jiha/PesanBuatmu.html
